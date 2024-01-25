@@ -105,6 +105,8 @@ public class CreateContactTest extends BaseClass {
 	public void demoTest()
 	{
 		//Assert.fail();
+		
+		//newly pulled
 		System.out.println("Hi");
 	}
 }
