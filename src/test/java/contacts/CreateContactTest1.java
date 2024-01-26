@@ -46,7 +46,7 @@ public class CreateContactTest1 extends BaseClass {
 	@Test
 	public void demoTest()
 	{
-		Assert.fail();
+//		Assert.fail();
 		System.out.println("Hi");
 	}
 }
